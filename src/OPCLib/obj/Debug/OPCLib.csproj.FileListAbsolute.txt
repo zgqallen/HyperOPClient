@@ -1,0 +1,16 @@
+C:\Users\I310269\Desktop\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.dll.config
+C:\Users\I310269\Desktop\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.dll
+C:\Users\I310269\Desktop\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.pdb
+C:\Users\I310269\Desktop\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\src\OPCLib\obj\Debug\OPCLib.dll
+C:\Users\I310269\Desktop\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\src\OPCLib\obj\Debug\OPCLib.pdb
+C:\Users\I310269\Desktop\OPC\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.dll.config
+C:\Users\I310269\Desktop\OPC\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.dll
+C:\Users\I310269\Desktop\OPC\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.pdb
+C:\Users\I310269\Desktop\OPC\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\src\OPCLib\obj\Debug\OPCLib.dll
+C:\Users\I310269\Desktop\OPC\opc-quickclient-code-19-trunk\opc-quickclient-code-19-trunk\src\OPCLib\obj\Debug\OPCLib.pdb
+E:\dev\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.dll.config
+E:\dev\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.dll
+E:\dev\opc-quickclient-code-19-trunk\dll\Debug\OPCLib.pdb
+E:\dev\opc-quickclient-code-19-trunk\src\OPCLib\obj\Debug\ResolveAssemblyReference.cache
+E:\dev\opc-quickclient-code-19-trunk\src\OPCLib\obj\Debug\OPCLib.dll
+E:\dev\opc-quickclient-code-19-trunk\src\OPCLib\obj\Debug\OPCLib.pdb

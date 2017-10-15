@@ -1,0 +1,389 @@
+Function   : Initialize Successfully，software Version V1.0.
+Message    : [Main]：
+StackTrace : [SoftwareFrame]：
+Date/Time  : 2016/1/24 14:47:28
+
+
+Function   : [Main]：
+Message    : Initialize Successfully software Version V1.0.
+StackTrace : [SoftwareFrame]：
+Date/Time  : 2016/1/24 14:51:26
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:04:38
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:04:58
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:09:14
+
+
+Function   : Error during OPC server connection
+Message    : 值不在预期的范围内。
+StackTrace :    在 GUI.CController.ServerController.BrowseServerAndAddItems() 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CController\ServerController.cs:行号 276
+   在 GUI.CController.SoftwareController.ConnectToOPCServer(String p_MachineName, String p_ServerID, String[] DBinfo) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CController\SoftwareController.cs:行号 107
+   在 GUI.CView.SoftwareFrame.ConnectSrvBackgroundWorker_DoWork(Object p_Sender, DoWorkEventArgs p_EvArgs) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CView\SoftwareFrame.cs:行号 327
+Date/Time  : 2016/1/24 15:09:54
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:21:27
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:44:40
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:51:21
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:51:25
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:51:32
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 15:51:37
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:03:35
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:04:15
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:06:56
+
+
+Function   : Error during OPC server connection
+Message    : Login failed for user 'sa'.
+StackTrace :    在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 GUI.CView.SoftwareFrame.m_TestConnectionButton_Click(Object sender, EventArgs e) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CView\SoftwareFrame.cs:行号 475
+Date/Time  : 2016/1/24 16:07:23
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:07:55
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:12:11
+
+
+Function   : Error during OPC server connection
+Message    : 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL 网络接口, error: 26 - 定位指定的服务器/实例时出错)
+StackTrace :    在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 GUI.CView.SoftwareFrame.m_TestConnectionButton_Click(Object sender, EventArgs e) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CView\SoftwareFrame.cs:行号 475
+Date/Time  : 2016/1/24 16:13:27
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:15:15
+
+
+Function   : Error during OPC server connection
+Message    : Login failed for user 'sa'.
+StackTrace :    在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 GUI.CView.SoftwareFrame.m_TestConnectionButton_Click(Object sender, EventArgs e) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CView\SoftwareFrame.cs:行号 475
+Date/Time  : 2016/1/24 16:15:27
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:18:29
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:25:40
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:59:15
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 16:59:30
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:06:47
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:07:44
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:08:08
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:14:48
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:18:47
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:19:17
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:21:56
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:36:46
+
+
+Function   : Error during OPC server connection
+Message    : Login failed for user 'sa'.
+StackTrace :    在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 GUI.CView.SoftwareFrame.m_TestConnectionButton_Click(Object sender, EventArgs e) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CView\SoftwareFrame.cs:行号 475
+Date/Time  : 2016/1/24 17:37:01
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:39:36
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:47:12
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:47:20
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:47:31
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:48:18
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:50:05
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:50:53
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:51:08
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/1/24 17:51:13
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/4/8 20:35:11
+
+
+Function   : Error during OPC server connection
+Message    : 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: SQL 网络接口, error: 26 - 定位指定的服务器/实例时出错)
+StackTrace :    在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 GUI.CView.SoftwareFrame.m_TestConnectionButton_Click(Object sender, EventArgs e) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CView\SoftwareFrame.cs:行号 475
+Date/Time  : 2016/4/8 20:35:54
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/4/8 20:36:53
+
+
+Function   : Error during OPC server connection
+Message    : 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: 命名管道提供程序, error: 40 - 无法打开到 SQL Server 的连接)
+StackTrace :    在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 GUI.CView.SoftwareFrame.m_TestConnectionButton_Click(Object sender, EventArgs e) 位置 E:\dev\opc-quickclient-code-19-trunk\src\GUI\CView\SoftwareFrame.cs:行号 475
+Date/Time  : 2016/4/8 20:37:29
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/4/8 21:03:26
+
+
+Function   : [Main]
+Message    : Initialize Successfully software Version V1.0. Build Date：2016-01-24.
+StackTrace : [SoftwareFrame]
+Date/Time  : 2016/4/8 21:21:35
+
+
